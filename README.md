@@ -33,8 +33,6 @@ Write implementation of following operation in Either C++ or  C .
 4.  RemoveDuplicate: Remove Duplicate row entry in CSV file.  
  
 
-5. Union:  Input two CSV file name and Column name.      Union of row data based on column name and save it to another file name file3. 
- 
-6. Intersection:  Input two CSV file name and Column name present in both file.      Intersection of row data based on column name and save it to another file name file3 
+
  
  
