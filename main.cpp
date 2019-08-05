@@ -71,23 +71,8 @@ int main()
             cin >> f1;
             removeDuplicates(f1);
             break;
-        case 5:
-            cout << "Enter Name of  csv file to sort" << endl;
-            cin >> f1;
-            sort(f1);
-            break;
-        case 6:
-            cout << "Enter Name of  2 csv files to perform union operation" << endl;
-            cin >> f1 >> f2;
-            unioncsv(f1, f2);
-            break;
-        case 7:
-            cout << "Enter Name of  2 csv files to perform intersection operation" << endl;
-            cin >> f1 >> f2;
-            intersectioncsv(f1, f2);
-            break;
-
-        case 8:
+      
+       case 5:
         {
 
             cout << "Enter Name of  csv file to print" << endl;
